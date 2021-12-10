@@ -1,4 +1,4 @@
-name: Automatic tag
+name: Automatic tag teste
 
 on:
   push:
