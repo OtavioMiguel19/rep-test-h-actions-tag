@@ -1,4 +1,4 @@
-name: Pipeline Merge
+name: Automatic tag
 
 on:
   push:
