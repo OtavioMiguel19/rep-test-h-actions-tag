@@ -12,21 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-#     strategy:
-#       matrix:
-#         node-version: 
-#         - 12
     steps: 
-    
-#     # Prepare everything
-#     - name: Prepare Checkout
-#       uses: actions/checkout@v2
-
-#     - name: Prepare Java Environment
-#       uses: actions/setup-java@v1
-#       with:
-#         java-version: '12.x'
-  
+ 
     # Create tag
     - name: Create tag
       id: tag_version
